@@ -1,0 +1,8 @@
+Date,Product,Category,Region,Units Sold,Unit Price
+2026-01-01,Apple,Fruit,East,50,1.2
+2026-01-01,Banana,Fruit,West,30,0.8
+2026-01-02,Milk,Dairy,East,20,1.5
+2026-01-03,Bread,Bakery,North,40,2.0
+2026-01-04,Cheese,Dairy,South,15,3.5
+2026-01-05,Apple,Fruit,West,60,1.2
+
