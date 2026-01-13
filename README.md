@@ -17,7 +17,7 @@ This project focuses on analyzing sales data to understand product performance, 
 - Matplotlib  
 - Seaborn  
 - Jupyter Notebook  
-- Streamlit (optional)
+- Streamlit
 
 # Project Structure
 sales-data-analysis/
